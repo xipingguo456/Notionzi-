@@ -19,7 +19,6 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
-  link
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
