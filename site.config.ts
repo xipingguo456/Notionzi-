@@ -9,16 +9,19 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '测试',
+  name: 'ME',
   domain: 'notion4me',
-  author: 'LZY',
+  author: 'ME',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'notion blog',
+  // socialImageTitle: 'ME',
+  // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  //twitter: 'transitive_bs',
   github: 'transitive-bullshit',
+  //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
